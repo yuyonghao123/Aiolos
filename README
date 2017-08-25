@@ -1,5 +1,5 @@
 v1.7
-【fixed】修复了以下异常：
+【fixed】修复了以下异常：2017.8.25
     android.database.sqlite.SQLiteFullException: database or disk is full
     
 v1.6
