@@ -1,3 +1,10 @@
+————————
+Android
+————————
+v1.7.1
+【fixed】修复了以下异常：2017.9.6
+    near "exit": syntax error(会导致异常发生使得数据库的数据无法清除)
+    
 v1.7
 【fixed】修复了以下异常：2017.8.25
     android.database.sqlite.SQLiteFullException: database or disk is full
